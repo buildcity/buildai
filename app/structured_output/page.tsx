@@ -1,4 +1,4 @@
-import { ChatWindow } from "@/components/ChatWindow";
+/*import { ChatWindow } from "@/components/ChatWindow";
 
 export default function AgentsPage() {
   const InfoCard = (
@@ -99,4 +99,4 @@ export default function AgentsPage() {
       titleText="Structured Output"
     ></ChatWindow>
   );
-}
+}*/

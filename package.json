@@ -13,10 +13,10 @@
     "node": ">=18"
   },
   "dependencies": {
-    "@langchain/community": "^0.0.47",
+    "@langchain/community": "^0.0.50",
     "@langchain/openai": "^0.0.28",
     "@next/bundle-analyzer": "^13.4.19",
-    "@supabase/supabase-js": "^2.32.0",
+    "@supabase/supabase-js": "^2.42.5",
     "@types/node": "20.4.5",
     "@types/react": "18.2.17",
     "@types/react-dom": "18.2.7",
