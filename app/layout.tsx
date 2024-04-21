@@ -19,14 +19,14 @@ export default function RootLayout({
           name="description"
           content="OAE AI Bots"
         />
-        <meta property="og:title" content="LangChain + Next.js Template" />
+        <meta property="og:title" content="Build AI" />
         <meta
           property="og:description"
           content="OAE AI Bots"
         />
         <meta property="og:image" content="/images/og-image.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="LangChain + Next.js Template" />
+        <meta name="twitter:title" content="Build AI" />
         <meta
           name="twitter:description"
           content="OAE AI Bots"
