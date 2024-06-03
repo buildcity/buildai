@@ -53,7 +53,7 @@ export default function Home() {
       endpoint="api/chat"
       
       titleText="Build AI"
-      placeholder="I am your assisatant, ready to help with OAE applications, ask me anything"
+      placeholder="I am your assistant, ready to help with OAE applications, ask me anything"
       emptyStateComponent={InfoCard}
     ></ChatWindow>
   );

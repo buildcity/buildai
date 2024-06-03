@@ -1,5 +1,5 @@
 {
-  "name": "Build Ai",
+  "name": "langchain-nextjs-template",
   "version": "0.0.0",
   "private": true,
   "scripts": {
